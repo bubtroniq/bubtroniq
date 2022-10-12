@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Razvan
 - 👀 I’m interested in ...cycling, hiking and coding!
-- 🌱 I’m currently learning CSS/JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on ...HTML/CSS
 - 📫 How to reach me
     You can reach me at my email address:joitescurazvan@gmail.com
 
